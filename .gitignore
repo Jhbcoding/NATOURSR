@@ -3,3 +3,4 @@ config.env
 node_modules/
 dev-data/
 public/
+package-lock.json
