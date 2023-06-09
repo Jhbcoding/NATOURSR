@@ -1,0 +1,4 @@
+config.env
+/routes
+# /node_modules
+public/
