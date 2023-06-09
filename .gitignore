@@ -1,5 +1,5 @@
 config.env
 /routes
-# /node_modules
+node_modules/
+dev-data/
 public/
-sdf
